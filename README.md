@@ -8,4 +8,4 @@ Este projeto é uma **calculadora simples** desenvolvida com HTML, CSS e JavaScr
 
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript 
